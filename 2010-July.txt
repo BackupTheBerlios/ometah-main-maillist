@@ -1,0 +1,278 @@
+From iwi at econ.uni-hamburg.de  Wed Jul  7 14:05:31 2010
+From: iwi at econ.uni-hamburg.de (IWI)
+Date: Wed, 07 Jul 2010 14:05:31 +0200
+Subject: [Ometah-main] Fwd: 1st International Conference on Computational
+ Logistics (ICCL), Shanghai, 20-22 Sept. 2010
+Message-ID: <4C346D8B.2090300@econ.uni-hamburg.de>
+
+
+Dear Colleague,
+
+We invite you and your colleagues to submit papers to the 1st
+International Conference on Computational Logistics (ICCL) to be held in
+Shanghai, 20-22 September 2010.
+
+Computational Logistics concentrates on methods and information systems
+that support or perform the planning and control of logistics systems
+and processes. Computational Logistics involves the use of information
+systems and modern information and communication technology (IT) for the
+design, planning and control of logistics networks as well as the
+complex tasks within them.
+
+Further information can be found on:
+http://gauss.econ.uni-hamburg.de/iccl2010/
+or
+http://iccl2010.org/
+
+Conference Dates: September 20-22, 2010
+Conference Venue: Radisson (Century Park), Pudong District, Shanghai
+Extended Abstract Submission Deadline: July 15, 2010
+August 5, 2010: Notification of Acceptance/Rejection
+Early Registration Due: August 15, 2010
+Registration Fee:
+	250 Euros as Full Early Registration
+	100 Euros as Special Early Registration for Students
+
+In case you are interested, the deadline for the submission of extended
+abstract of up to 4 pages is approaching quickly. Kindly send them by 15
+July 2010 by e-mail to: ICCL at econ.uni-hamburg.de
+
+If you are interested to organize special sessions, kindly let us know
+by July 15th, too.
+
+If you have any questions do not hesitate to contact us. The organizing
+committee is looking forward to welcoming you in Shanghai! This is also
+a good opportunity even to visit the EXPO in Shanghai at a time when it
+is most pleasant to do so.
+
+Best regards,
+
+Hao Hu (Shanghai Jiao Tong University, China)
+Stefan Vo? (University of Hamburg, Germany)
+
+
+
+-- 
+*******************************************************
+See some recent books as follows:
+
+MATHEURISTICS: Hybridizing Metaheuristics and
+Mathematical Programming (Ed., with V. Maniezzo
+and T. St?tzle). Springer, Berlin (2009).
+[ISBN: 978-1-4419-1305-0]
+
+Logistik Management ? Systeme, Methoden, Integration
+(Ed.; with J. Pahl and S. Schwarze). Physica,
+Heidelberg (2009). [Logistics Management ? partly in
+German and partly in English] [ISBN: 978-3-7908-2361-5]
+
+*******************************************************
+
+See our road pricing survey in Netnomics under:
+http://www.springerlink.com/content/152420j000055200
+
+See our container terminal survey update in
+OR Spectrum under:
+http://www.springerlink.com/content/018j57r4364148m0
+
+See our load-dependent lead time survey update in
+Annals of Operations Research under:
+http://www.springerlink.com/content/b2303t30q537u644
+
+*******************************************************
+
+Prof. Dr. Stefan Vo?
+Universit?t Hamburg
+Institut f?r Wirtschaftsinformatik
+Von-Melle-Park 5
+D - 20146 Hamburg, Germany
+FAX: ++49-40-42838-5535
+TEL: ...-3062
+E-mail: stefan.voss at uni-hamburg.de
+
+
+
+
+
+From iwi at econ.uni-hamburg.de  Tue Jul 27 08:44:35 2010
+From: iwi at econ.uni-hamburg.de (IWI)
+Date: Tue, 27 Jul 2010 08:44:35 +0200
+Subject: [Ometah-main] IFORS 2011 - Metaheuristics session (invitation)
+Message-ID: <4C4E8053.4040206@econ.uni-hamburg.de>
+
+
+Dear list members,
+
+As Stream Organizers for Metaheuristics at the next IFORS Meeting, that
+will be held in Melbourne (Australia) on 10?15 July 2011, see
+http://www.ifors2011.org/ , Celso Ribeiro and I are pleased to invite
+you to organize and chair a session on a Metaheuristics theme of your
+choice. One session comprises three to four invited papers. If you are
+interested to do so, kindly let us know and you will get access to the
+system.
+
+Moreover, if you like to submit a paper for our stream, you can use the
+abstract system on the website of the conference to do so.
+
+Best regards,
+Stefan
+
+-- 
+*******************************************************
+
+See some recent books as follows:
+
+
+
+MATHEURISTICS: Hybridizing Metaheuristics and
+
+Mathematical Programming (Ed., with V. Maniezzo
+
+and T. St?tzle). Springer, Berlin (2009).
+
+[ISBN: 978-1-4419-1305-0]
+
+
+
+Logistik Management ? Systeme, Methoden, Integration
+
+(Ed.; with J. Pahl and S. Schwarze). Physica,
+
+Heidelberg (2009). [Logistics Management ? partly in
+
+German and partly in English] [ISBN: 978-3-7908-2361-5]
+
+
+
+*******************************************************
+
+
+
+See our road pricing survey in Netnomics under:
+
+http://www.springerlink.com/content/152420j000055200
+
+
+
+See our container terminal survey update in
+
+OR Spectrum under:
+
+http://www.springerlink.com/content/018j57r4364148m0
+
+
+
+See our load-dependent lead time survey update in
+
+Annals of Operations Research under:
+
+http://www.springerlink.com/content/b2303t30q537u644
+
+
+
+*******************************************************
+
+
+
+Prof. Dr. Stefan Vo?
+
+Universit?t Hamburg
+
+Institut f?r Wirtschaftsinformatik
+
+Von-Melle-Park 5
+
+D - 20146 Hamburg, Germany
+
+FAX: ++49-40-42838-5535
+
+TEL: ...-3062
+
+E-mail:stefan.voss at uni-hamburg.de
+
+
+
+
+
+From iwi at econ.uni-hamburg.de  Tue Jul 27 09:21:35 2010
+From: iwi at econ.uni-hamburg.de (IWI)
+Date: Tue, 27 Jul 2010 09:21:35 +0200
+Subject: [Ometah-main] 1st International Conference on Computational
+ Logistics (ICCL) Shanghai, 20-22 Sept. 2010
+Message-ID: <4C4E88FF.7070903@econ.uni-hamburg.de>
+
+
+++++ Deadline Extension ++++ (Apologies for Crossposting)
+
+Dear Colleague,
+
+We invite you and your colleagues to submit papers to the 1st
+International Conference on Computational Logistics (ICCL) to be held in
+Shanghai, 20-22 September 2010.
+
+Based on popular request the deadlines for submission have been extended.
+
+Extended Abstract Submission Deadline: August 2, 2010
+
+Further information can be found on:
+http://iccl2010.org/
+
+We are looking forward to welcoming you in Shanghai! This is also
+a good opportunity even to visit the EXPO in Shanghai at a time when it
+is most pleasant to do so.
+
+Computational Logistics concentrates on methods and information systems
+that support or perform the planning and control of logistics systems
+and processes. Computational Logistics involves the use of information
+systems and modern information and communication technology (IT) for the
+design, planning and control of logistics networks as well as the
+complex tasks within them.
+
+Best regards,
+Hao Hu (Shanghai Jiao Tong University, China)
+Stefan Voss (University of Hamburg, Germany)
+
+
+-- 
+*******************************************************
+See some recent books as follows:
+
+MATHEURISTICS: Hybridizing Metaheuristics and
+Mathematical Programming (Ed., with V. Maniezzo
+and T. St?tzle). Springer, Berlin (2009).
+[ISBN: 978-1-4419-1305-0]
+
+Logistik Management ? Systeme, Methoden, Integration
+(Ed.; with J. Pahl and S. Schwarze). Physica,
+Heidelberg (2009). [Logistics Management ? partly in
+German and partly in English] [ISBN: 978-3-7908-2361-5]
+
+*******************************************************
+
+See our road pricing survey in Netnomics under:
+http://www.springerlink.com/content/152420j000055200
+
+See our container terminal survey update in
+OR Spectrum under:
+http://www.springerlink.com/content/018j57r4364148m0
+
+See our load-dependent lead time survey update in
+Annals of Operations Research under:
+http://www.springerlink.com/content/b2303t30q537u644
+
+*******************************************************
+
+Prof. Dr. Stefan Vo?
+Universit?t Hamburg
+Institut f?r Wirtschaftsinformatik
+Von-Melle-Park 5
+D - 20146 Hamburg, Germany
+FAX: ++49-40-42838-5535
+TEL: ...-3062
+E-mail: stefan.voss at uni-hamburg.de
+
+
+
+
+
+

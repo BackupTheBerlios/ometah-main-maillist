@@ -1,0 +1,54 @@
+From bachale at econ.uni-hamburg.de  Fri Feb 19 13:29:20 2010
+From: bachale at econ.uni-hamburg.de (Bachale)
+Date: Fri, 19 Feb 2010 13:29:20 +0100
+Subject: [Ometah-main] Invitation for Abstract Submission
+Message-ID: <201002191229.o1JCTKkL046734@rzaixsrv2.rrz.uni-hamburg.de>
+
+
+Apologies for cross-posting.
+
+Invitation to Submit an Abstract
+-----------------------------
+- Session: "Solution Approaches for Lot-sizing Problems"
+- Submission Code: ded3f037
+- Conference: EURO XXIV Lisbon, Portugal, July 11-14, 2010
+www.euro2010lisbon.org
+- Session Organizer: Marco Caserta, University of Hamburg
+(marco.caserta at uni-hamburg.de)
+
+Dear Researcher:
+
+We would like to invite you to submit an abstract for the session "Solution
+Approaches for Lot-sizing Problems", organized within the stream "Lot Sizing
+and Scheduling, Economic Order Quantitie" at the 24th European Conference On
+Operational Research (EURO XXIV) in Lisbon, Portugal, 11-14 July, 2010.
+
+We especially welcome contributions around the topics of mathematical
+programming, decomposition techniques, metaheuristics, hybrid algorithms,
+and math-heuristic approaches for lot sizing problem. 
+
+To submit an abstract within this session, you are invited to visit
+http://www.euro-online.org/conf/euro24/?page=welcome and log in with your
+EURO username and password. The session's submission/invitation code is
+ded3f037. Alternatively, you can submit your abstract directly to the
+session organizer at marco.caserta at uni-hamburg.de 
+
+
+IMPORTANT DATES:
+===============
+Deadline for abstract submission:  February 28, 2010 Notification of
+acceptance:  March 15, 2010 Deadline for early registration:  March 31, 2010
+Deadline for author registration (for inclusion in the program):
+April 30, 2010,
+
+Conference: July 11-14, 2010.
+
+Looking forward to seeing you in Lisbon. 
+
+Kind Regards,
+
+Marco Caserta, University of Hamburg (Session Organizer)
+marco.caserta at uni-hamburg.de
+
+
+

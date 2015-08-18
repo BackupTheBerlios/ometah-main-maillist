@@ -1,0 +1,119 @@
+From torsten.reiners at googlemail.com  Thu Dec 30 17:37:48 2010
+From: torsten.reiners at googlemail.com (Torsten Reiners)
+Date: Thu, 30 Dec 2010 17:37:48 +0100
+Subject: [Ometah-main] [INOC 2011] CfP International Network Optimization
+	Conference
+Message-ID: <AANLkTi=2KZr4ePbekYZhM7114ko3Y+57wf_YmgQ31zyR@mail.gmail.com>
+
+We appologize for cross-posting the Call for Paper for the INOC 2011
+
+FIRST CALL FOR PAPERS
+
+**********************************************************************
+*
+* INOC 2011
+* International Network Optimization Conference
+*
+* Hamburg, Germany
+* 13.-16. June 2011
+*
+* http://www.inoc2011.de
+*
+**********************************************************************
+
+
+The International Network Optimizaiton Conference
+(INOC 2011) will be held in Hamburg, Germany, from the 13.-16. June 2011.
+
+Researchers are invited to submit papers describing their current research
+in Network Optimization. The aim is to present recent developments in theory,
+computational studies and applications settings.
+The deadline for submission is 15. February 2011.
+The notification of acceptance is 15. March 2011.
+
+Papers will be peer-reviewed; acceptance of the contributions will be
+based on originality
+of the work, suitability regarding the topics of the conference, and
+overall quality of the submission.
+Accepted papers are published in a proceeding book (publisher and
+series will be announced soon).
+In addition, selected papers are invited for publication in one of two
+special issues
+to appear in *Netnomics* or *Networks*.
+
+
+As in the past, the conference will provide an opportunity for
+researchers and practitioners in the field of
+network optimization to present their latest results and findings in a
+fruitful and open-minded environment.
+
+Contributions on any topic in network optimization and following
+related topics are welcome:
+
+* Network flows
+* Routing algorithms
+* Network design
+* Location
+* Airline management
+* Survivability
+* Sustainability
+* Uncertainty
+* Stochastic models
+* Vehicle routing
+* Graph theory
+* Exact approaches
+* Heuristic approaches
+* Queuing theory
+* Computational logistics
+
+
+IMPORTANT DATES
+
+**********************************************************************
+* Deadline of Submission:   *15. February 2011*
+* Deadline of Acceptance :  15. March 2011
+* Deadline Submission Final Version : 15. April 2011
+* Deadline Early Registration : 1. May 2011
+* INOC 2011 in Hamburg : *13.-16. June 2011*
+**********************************************************************
+
+
+INVITED SPEAKERS
+
+We plan to have invited speakers. Invitations are currently under discussion.
+
+REGISTRATION AND SUBMISSION
+
+The registration and submission process are already open to interested
+people. We are accepting short (up to 6 pages) and full papers (up to
+15 pages),
+written in English and typeset using the LaTeX template provided at
+http://www.inoc2011.de, under the *Submission* section.
+
+Papers will be peer-reviewed and acceptance of the contributions
+will be based on originality of the work, suitability regarding the topic
+of the conference, and overall quality of the submission.
+
+
+
+ORGANIZATION CHAIR:
+Julia Pahl
+Torsten Reiners
+Stefan Voss
+
+
+CONTACT INFORMATION
+
+For information about the conference, please contact:
+
+Institute of Information Systems
+University of Hamburg
+Von-Melle-Park 5
+20146 Hamburg
+Phone: +49 (0)40 42838 3062
+Fax: +49 (0)40 42838 5535
+Email: info at inoc2011.de
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/ometah-main/attachments/20101230/ad58008b/attachment.html>
+

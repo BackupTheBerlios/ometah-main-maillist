@@ -1,0 +1,186 @@
+From bachale at econ.uni-hamburg.de  Mon Mar  8 09:53:49 2010
+From: bachale at econ.uni-hamburg.de (Bachale)
+Date: Mon, 8 Mar 2010 09:53:49 +0100
+Subject: [Ometah-main] CfP HICSS 2011
+Message-ID: <201003080853.o288reR7054390@rzaixsrv2.rrz.uni-hamburg.de>
+
+
+Apologies for cross-postings
+--------------------------------------------------
+
+
+Call for Papers
+
+HICSS-44: Minitrack Proposal (within DT):
+
+"Intelligent Decision Support for Logistics and Supply Chain Management"
+
+Part of the Decision Technologies and Service Sciences Track
+
+FORTY-Fourth ANNUAL HAWAI'I INTERNATIONAL CONFERENCE ON SYSTEM SCIENCES
+(HICSS-44)
+
+January 4-7, 2011 (Tuesday ? Friday)
+
+Grand Hyatt Kauai Resort and Spa
+
+ 
+	
+
+Minitrack Co-Chairs
+Andreas Fink, Helmut-Schmidt-University Hamburg, Germany 	Hans-J?rgen
+Sebastian, RWTH Aachen University, Germany  	Stefan Vo?, University of
+Hamburg, Germany   (primary contact person)
+
+ 
+
+Topics description (less than 50 words)
+
+The minitrack features theoretical developments, real-world applications and
+software solutions related to solving decision problems in logistics and
+supply chain management. Methods include optimization, heuristics and
+meta-heuristics, simulation, agent technologies, and descriptive methods.
+
+ 
+
+Minitrack Description
+
+This minitrack is a continuation of the successful minitrack ?Intelligent
+Decision Support for (e-)Logistics and Supply Chain Management? of HICSS-36
+through HICSS-43. In each case accepted papers were usually being presented
+in two or three sessions and an open forum on future issues of e-Logistics
+took place. The sessions were always attended by 15 to 20 people with an
+exception in 2005 where attendance was somewhat higher at about 20-25.
+Attendance of 2010 is still open but expected to be n the same line as
+before.
+
+Information technology (IT) is a prerequisite for successful supply chain
+management (SCM) today and will become even more so in near future. The
+logistics and SCM field is developing very dynamically. Business-to-business
+transactions are made via the Internet and enterprise resource planning
+(ERP) systems that manage the transactional information within the
+enterprise. While IT systems are vital components in supply chains, their
+successful management rests on intelligent and coordinated decision making
+throughout the logistics network. Intelligent decision support using
+advanced decision technologies are becoming increasingly important in
+logistics and SCM. Data warehouses and data mining can be used to store and
+analyze product, inventory, and sales information. Simulation and
+optimization, which can be found in advanced planning and scheduling
+systems, can be employed for, e.g., inventory, production, procurement, and
+distribution planning. Intelligent agents can e.g. communicate with
+different partners in the supply chain, assist in collecting information,
+share product information, negotiate prices, and distribute alerts
+throughout the logistics networks. The design and implementation of
+intelligent decision technologies to support human agents in logistics and
+SCM is a very active field in research, consulting and software development.
+Many such technologies or systems have been implemented recently or are
+currently in the stage of implementation. We do, therefore, believe that
+this minitrack will be recognized by both the scientific community and
+practitioners developing or using logistics and SCM solutions.
+
+We aim again at organizing a minitrack consisting of two or three sessions
+depending on the number of high quality submissions. We seek papers dealing
+with decision technologies which contribute to intelligent decision support
+in the whole field of logistics and in particular in all categories of SCM.
+This includes but is not restricted to simulation, optimization, heuristics,
+metaheuristics, agent technologies, descriptive models, data warehousing,
+and data mining. We are especially interested in real-world applications and
+in software solutions which assist in solving decision problems. This is
+extended towards, e.g., advanced planning systems and the intelligent use of
+enterprise resource planning systems. Also conceptual ideas, reports on
+projects in progress, and case studies are welcome. Moreover, teaching cases
+both at the university as well as the executive level may be of interest.
+
+ 
+
+Information about Minitrack Co-Chairs
+
+ 
+
+The bio-sketch of all co-chairs should already be available in connection
+with past HICSS minitracks.
+
+ 
+
+Prof. Dr. Andreas Fink
+
+Helmut-Schmidt-University Hamburg
+
+Institute of Computer Science, Faculty of Economics and Social Sciences
+
+Holstenhofweg 85, 22043 Hamburg, Germany
+
+phone: +49-40-6541-2857,
+
+email: andreas.fink at hsu-hamburg.de
+
+ 
+	  	
+
+Prof. Dr. Hans-J?rgen Sebastian
+
+RWTH Aachen University
+
+Department of Operations Research and Logistics Management
+
+Templergraben 64, 52062 Aachen, Germany
+
+phone: +49 241 80 9 61 85,
+
+fax: +49 241 8092-168,
+
+email: sebastian at or.rwth-aachen.de
+
+ 
+	  	
+
+Prof. Dr. Stefan Vo?
+
+University of Hamburg
+
+Institute of Information Systems (IWI)
+
+Von-Melle-Park 5, 20146 Hamburg, Germany
+
+phone: +49-40-42838-3062,
+
+fax: +49-40-42838-5535,
+
+email: stefan.voss at uni-hamburg.de
+
+ 
+
+ 
+
+ 
+
+Statements of support of our universities
+
+The RWTH Aachen endorses the involvement and attendance of Prof. Dr.
+Hans-J?rgen Sebastian in HICSS-44 and has the infrastructure to support that
+involvement as described in the list giving the responsibilities of
+minitrack chairs. The University of Hamburg and the
+Helmut-Schmidt-University agree to the involvement and attendance of Prof.
+Dr. Stefan Vo? as well as Prof. Dr. Andreas Fink at HICSS-44 and have the
+infrastructure to support that involvement regarding the responsibilities of
+minitrack chairs.
+
+ 
+
+ 
+
+HICSS-44 SCHEDULE:
+
+June 15, 2010 	submission deadline
+August 15, 2010 	REVIEW PROCESS: Notification
+
+ 
+
+Authors submit papers for review in publication format to the Peer Review
+site, according to the instructions posted on the HICSS web site.
+
+Please see also:
+http://iwi.econ.uni-hamburg.de/IWIWeb/Default.aspx?tabid=1145
+
+
+

@@ -1,0 +1,266 @@
+From bachale at econ.uni-hamburg.de  Mon May  4 11:45:35 2009
+From: bachale at econ.uni-hamburg.de (Bachale)
+Date: Mon, 4 May 2009 11:45:35 +0200
+Subject: [Ometah-main] HICSS 43 Cfp
+Message-ID: <200905040945.n449jpEA029996@rzaixsrv2.rrz.uni-hamburg.de>
+
+ 
+
+ 
+
+Dear Sir or Madam,
+
+ 
+
+We would like to present to you the following Call for Papers. In case of
+cross-mailing you, we apologize sincerely.
+
+ 
+
+Best Regards
+
+ 
+
+Julia Bachale
+
+Secretary
+
+Institute of  Information Systems
+
+University of  Hamburg
+
+Von-Melle-Park 5
+
+20146 Hamburg, Germany
+
+iwi at econ.uni-hamburg.de
+
+phone +49(40)42838 3064
+
+fax +49(40)42838 5535
+
+ 
+
+ 
+
+Call for Papers
+
+ 
+
+HICSS-43 Minitrack on
+
+ 
+
+INTELLIGENT DECISION SUPPORT FOR LOGISTICS AND SUPPLY CHAIN MANAGEMENT
+
+ 
+
+Part of the Decision Technologies and Service Sciences Track
+
+ 
+
+FORTY-THIRD ANNUAL HAWAI'I INTERNATIONAL CONFERENCE ON SYSTEM SCIENCES
+
+ 
+
+January 5 - 8, 2010
+
+The Grand Hyatt Kauai Resort & Spa, Kauai, Hawaii, U.S.A.
+
+            
+
+ 
+
+ 
+
+ 
+
+Minitrack Description
+
+ 
+
+Information technology (IT) is a prerequisite for successful supply chain
+management (SCM) today and will become even more so in near future. The
+logistics and SCM field is developing very dynamically. Business-to-business
+transactions are made via the Internet and enterprise resource planning
+(ERP) systems that manage the transactional information within the
+enterprise. While IT systems are vital components in supply chains, their
+successful management rests on intelligent and coordinated decision making
+throughout the logistics network. Intelligent decision support using
+advanced decision technologies are becoming increasingly important in
+logistics and SCM. Data warehouses and data mining can be used to store and
+analyze product, inventory, and sales information. Simulation and
+optimization, which can be found in advanced planning and scheduling
+systems, can be employed for, e.g., inventory, production, procurement, and
+distribution planning. Intelligent agents can e.g. communicate with
+different partners in the supply chain, assist in collecting information,
+share product information, negotiate prices, and distribute alerts
+throughout the logistics networks. The design and implementation of
+intelligent decision technologies to support human agents in logistics and
+SCM is a very active field in research, consulting and software development.
+Many such technologies or systems have been implemented recently or are
+currently in the stage of implementation. We do, therefore, believe that
+this minitrack will be recognized by both the scientific community and
+practitioners developing or using logistics and SCM solutions. We seek
+papers dealing with decision technologies which contribute to intelligent
+decision support in the whole field of logistics and in particular in all
+categories of SCM. This includes but is not restricted to simulation,
+optimization, heuristics, metaheuristics, agent technologies, descriptive
+models, data warehousing, and data mining. We are especially interested in
+real-world applications and in software solutions which assist in solving
+decision problems. This is extended towards, e.g., advanced planning systems
+and the intelligent use of enterprise resource planning systems. Also
+conceptual ideas, reports on projects in progress, and case studies are
+welcome. Moreover, teaching cases both at the university as well as the
+executive level may be of interest.
+
+ 
+
+Minitrack Co-chairs
+
+ 
+
+Stefan Vo?
+
+University of Hamburg
+
+Institute of Information Systems
+
+Von-Melle-Park 5
+
+20146 Hamburg, Germany
+
+Tel: +49-40-42838-3062
+
+stefan.voss at uni-hamburg.de
+
+            
+
+ 
+
+Andreas Fink
+
+Helmut-Schmidt-University
+
+Chair of Information Systems
+
+Holstenhofweg 85
+
+22043 Hamburg, Germany
+
+Tel: +49-40-6541-2857
+
+andreas.fink at hsu-hh.de
+
+            
+
+ 
+
+Hans-J?rgen Sebastian (Primary Contact)
+
+RWTH Aachen University
+
+Deutsche Post Chair of Optimization of Distribution Networks
+
+Templergraben 64
+
+52062 Achen, Germany
+
+Tel: +49-241-80-96185
+
+sebastian at or.rwth-aachen.de
+
+ 
+
+Important Deadlines
+
+ 
+
+Authors may contact minitrack co-chairs for guidance and indication of
+appropriate content at anytime
+
+June 15, 2009 Authors submit full papers
+
+August 15, 2009          Notice of acceptance, conditional acceptance, or
+rejection
+
+September 10, 2009    Revised version of paper due in case of conditional
+acceptance
+
+September 15, 2009    Final version of paper due to publisher. At least one
+author of each paper must register by this date.
+
+ 
+
+Instructions for Paper Submissions
+
+ 
+
+    * Submit your full paper (pdf) to the Peer Review System according to
+the formatting and submission instructions which will be available on the
+HICSS website. Papers are limited to 10 pages (double-column, font size 10
+pt).
+
+    * HICSS conferences are devoted to advances in the information,
+computer, and system sciences, and encompass developments in both theory and
+practice. HICSS will conduct double-blind reviews of each submitted paper.
+Those selected for publication will be published in the Conference
+Proceedings (IEEE).
+
+    * HICSS papers must contain original material not previously published,
+or currently submitted elsewhere. Do not submit the manuscript to more than
+one Minitrack. If unsure of which Minitrack is appropriate, submit abstract
+to the Track Chair for guidance.
+
+ 
+
+Conference Administration
+
+ 
+
+    * Conference Chair: Ralph R. Sprague Jr., sprague at hawaii.edu
+
+    * Conference Administrator: Sandra Laney, hicss at hawaii.edu
+
+    * Track Administrator: Rajib Subba, rajib at hawaii.edu
+
+ 
+
+For the latest information, visit the HICSS web site at:
+http://www.hicss.hawaii.edu
+
+ 
+
+Conference Venue
+
+ 
+
+The Grand Hyatt Kauai Resort & Spa, Kauai, Hawaii, U.S.A.
+
+ 
+
+http://kauai.hyatt.com/
+
+           
+
+ 
+
+ February 2009  ?  Andreas Fink  ?  andreas.fink at hsu-hh.de
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/ometah-main/attachments/20090504/451b7ba0/attachment.html>
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: CfP.txt
+URL: <https://lists.berlios.de/pipermail/ometah-main/attachments/20090504/451b7ba0/attachment.txt>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Call for Papers.doc
+Type: application/msword
+Size: 407552 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/ometah-main/attachments/20090504/451b7ba0/attachment.doc>
+

@@ -1,0 +1,36 @@
+From nojhan at gmail.com  Mon Jul  3 18:52:41 2006
+From: nojhan at gmail.com (Johann =?utf-8?q?Dr=C3=A9o?=)
+Date: Mon, 3 Jul 2006 18:52:41 +0200
+Subject: [Ometah-main] Talk about open metaheuristics
+Message-ID: <200607031852.42154.nojhan@gmail.com>
+
+Hello,
+
+I want to let you know that I'm doing a presentation of oMetah during the 7th 
+Rencontres Mondiales du Logiciel Libre (also known as Libre Software 
+Meeting). The meeting will held on July 4th-8th 2006 in Vandoeuvre-les-Nancy, 
+in the "1er cycle" building of the Facult? des Sciences, campus of Henri 
+Poincar? - Nancy 1 University.
+
+This is a worldwide meeting for developers and those involved in the free 
+software community. Every year, more than fifty nationalities are 
+represented. According to the specific work methodologies of free software 
+development, this event is an unique occasion for people to meet each other, 
+to show their works, to share their knowledge and to exchange with end-users 
+on a non-business basis.
+
+The oMetah presentation is in the "Science" topic, the 7th of july at 11:35am.
+
+More informations :
+http://www.rmll.info/theme_26?lang=en
+
+-- 
+Johann Dr?o
+Universit? Paris 12
+Laboratoire Images, Signaux et Syst?mes Intelligents
+?quipe optimisation difficile
+T?l : 06 09 82 46 86
+IM : nojhan at jabber.org
+Web : http://nojhan.free.fr/rubrique.php3?id_rubrique=1
+
+

@@ -1,0 +1,100 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> [Ometah-main] segmentation fault when running ./ometah
+   </TITLE>
+   <LINK REL="Index" HREF="http://lists.berlios.de/pipermail/ometah-main/2006-April/index.html" >
+   <LINK REL="made" HREF="mailto:ometah-main%40lists.berlios.de?Subject=Re%3A%20%5BOmetah-main%5D%20segmentation%20fault%20when%20running%20./ometah&In-Reply-To=%3C1145211867.10404.33.camel%40localhost.localdomain%3E">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   <LINK REL="Previous"  HREF="000001.html">
+   
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[Ometah-main] segmentation fault when running ./ometah</H1>
+    <B>nojhan</B> 
+    <A HREF="mailto:ometah-main%40lists.berlios.de?Subject=Re%3A%20%5BOmetah-main%5D%20segmentation%20fault%20when%20running%20./ometah&In-Reply-To=%3C1145211867.10404.33.camel%40localhost.localdomain%3E"
+       TITLE="[Ometah-main] segmentation fault when running ./ometah">nojhan at gmail.com
+       </A><BR>
+    <I>Sun Apr 16 20:24:26 CEST 2006</I>
+    <P><UL>
+        <LI>Previous message: <A HREF="000001.html">[Ometah-main] segmentation fault when running ./ometah
+</A></li>
+        
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#3">[ date ]</a>
+              <a href="thread.html#3">[ thread ]</a>
+              <a href="subject.html#3">[ subject ]</a>
+              <a href="author.html#3">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>Le mercredi 12 avril 2006 &#224; 12:13 +0200, Jean-Luc Menut a &#233;crit :
+&gt;<i> this error message when I run ometah :
+</I>&gt;<i> 
+</I>&gt;<i> ImportError: No module named problem_for_ometah
+</I>&gt;<i> Warning: Python module &lt;problem_for_ometah&gt; not available . 
+</I>&gt;<i> (&lt;Exception_Python_LookUp&gt; error in function &lt;itsCommunicationClient_python&gt;, in file 
+</I>&gt;<i> &lt;communication/languages/itsCommunicationClient_python.cpp&gt;, at line 207)
+</I>&gt;<i> 
+</I>&gt;<i> Erreur de segmentation
+</I>
+I have the same errors, since the release. The warning about the python
+module can be corrected by a hard-coding the path to the file in the
+itsCommunicationClient_python.cpp file :
+Find the line 144, in the constructor, and try replacing the &quot;./ometah&quot;
+part in :
+	Py_SetProgramName(&quot;./ometah&quot;);
+by the absolute path of the ometah binary, or simply &quot;ometah&quot; if it is
+in the path, then recompile.
+
+
+The segfault seems to be due to the default problem (Rosenbrock) which
+is not well written (I don't know why it complains now and not before).
+Try using another problem, for example :
+	./ometah -p Sphere
+is working.
+
+
+Many thanks for the bug report, don't hesitate to submit a patch if you
+find a way to correct them. I will not read my email next week, but try
+asking other guys on the list, perhaps they will answer your questions.
+
+-- 
+Johann Dr&#233;o
+
+Universit&#233; de Paris 12 (LISSI, EA-3956)
+61 av. du G&#233;n&#233;ral de Gaulle, 94010 CR&#201;TEIL Cedex
+
+T&#233;l. : 01.45.17.14.95  B&#226;timent P2, bureau 231
+Web : <A HREF="http://nojhan.free.fr">http://nojhan.free.fr</A>
+IM : <A HREF="https://lists.berlios.de/mailman/listinfo/ometah-main">nojhan at jabber.org</A>
+
+
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	<LI>Previous message: <A HREF="000001.html">[Ometah-main] segmentation fault when running ./ometah
+</A></li>
+	
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#3">[ date ]</a>
+              <a href="thread.html#3">[ thread ]</a>
+              <a href="subject.html#3">[ subject ]</a>
+              <a href="author.html#3">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="https://lists.berlios.de/mailman/listinfo/ometah-main">More information about the Ometah-main
+mailing list</a><br>
+</body></html>

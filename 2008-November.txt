@@ -1,0 +1,496 @@
+From bachale at econ.uni-hamburg.de  Wed Nov 19 14:27:51 2008
+From: bachale at econ.uni-hamburg.de (Bachale)
+Date: Wed, 19 Nov 2008 14:27:51 +0100
+Subject: [Ometah-main] WG:  Two Calls for Papers
+Message-ID: <200811191328.mAJDSUAo151844@rzaixsrv2.rrz.uni-hamburg.de>
+
+ 
+
+ 
+
+  _____  
+
+Von: Bachale [mailto:bachale at econ.uni-hamburg.de] 
+Gesendet: Mittwoch, 19. November 2008 14:23
+An: 'informs at informs.ccsend.com'
+Betreff: Two Calls for Papers
+
+ 
+
+No 1:
+
+ 
+
+FIRST CALL FOR PAPERS
+
+ 
+
+**********************************************************************
+
+*
+
+*                          MIC 2009
+
+*    VIII Metaheuristic International Conference
+
+*
+
+*                      Hamburg, Germany
+
+*                  July 13 - 16, 2009
+
+*
+
+*                 http://www.mic09.de
+
+*
+
+**********************************************************************
+
+ 
+
+ 
+
+The 8th edition of the Metaheuristic International Conference 
+
+(MIC 2009) will be held in Hamburg, Germany, from 13th to 16th
+
+of July, 2009. 
+
+ 
+
+As in the past, the conference will provide an opportunity
+
+for researchers and practitioners in the field of metaheuristics
+
+to present their latest results and findings in a fruitful 
+
+and open-minded environment. 
+
+ 
+
+Contributions on any topic in metaheuristics are welcomed.
+
+ 
+
+ 
+
+IMPORTANT DATES
+
+ 
+
+**********************************************************************
+
+* Deadline of Submission of Extended Abstract       : March 15, 2009
+
+* Deadline of Acceptance                            : April 30, 2009
+
+* Deadline Submission Final Version                 : May 15, 2009
+
+* Deadline Early Registration                       : May 31, 2009
+
+* MIC 2009 in Hamburg                               : July 13-16, 2009
+
+**********************************************************************
+
+ 
+
+ 
+
+INVITED SPEAKERS
+
+ 
+
+We plan to program three invited speakers. Invitations are currently 
+
+under discussion.
+
+ 
+
+REGISTRATION AND SUBMISSION
+
+ 
+
+The registration and submission processes are already open to interested
+
+people. We are accepting extended abstracts with a maximum length of
+
+10 pages, written in English and typeset using the LaTeX template
+
+provided at http://www.mic09.de/, under the "Submission" section (See
+
+also  "Steps for Abstract Submission" in the same page.) 
+
+ 
+
+Papers will be peer-reviewed and acceptance of the contributions 
+
+will be based on originality of the work, suitability of the topic 
+
+to the conference, and overall quality of the submission. 
+
+ 
+
+POST-CONFERENCE VOLUME
+
+ 
+
+In line with the preceeding editions of MIC, we plan to open 
+
+invitations to submit high quality work for the post-conference 
+
+volume on Metaheuristics. The volume will be published by Springer.
+
+Further details about the post-conference submission will be provided soon.
+
+ 
+
+CONTACT INFORMATION
+
+ 
+
+For information about the conference, please contact:
+
+ 
+
+ 
+
+Institute of Information Systems
+
+University of Hamburg
+
+Von-Melle-Park 5
+
+20146 Hamburg
+
+Phone: +49 (0)40 42838 3062
+
+Fax: +49 (0)40 42838 5535
+
+Email: mic09 at econ.uni-hamburg.de
+
+ 
+
+No 2:
+
+ 
+
+----------------------------------------------------------------------------
+-------
+
+                         CALL FOR PAPERS
+
+ 
+
+                     Logistics Management 2009, 
+
+                         2.-4. September, 
+
+                      University of Hamburg
+
+ 
+
+                        http://www.lm09.de
+
+ 
+
+----------------------------------------------------------------------------
+-------
+
+ 
+
+The Logistics Management 2009 is an international conference 
+
+addressing research experts and practitioners interested in logistics
+
+management and related fields. The interdisciplinary 
+
+exchange and the discussion of current trends, strategies and research 
+
+outcomes are fundamental components of this conference.
+
+ 
+
+Topics of interest include but are not limited to Supply Chain Management,
+Collaborative Commerce, Reverse Logistics, IT-Systems in Logistics, 
+
+Transportation-, Handling-, and Inventory Policies, Decentralized Logistics,
+
+
+eBusiness as well as Education in Logistics.
+
+ 
+
+Please submit your paper via the Conference homepage (www.lm09.de) not 
+
+later than 31.01.2009. All submitted papers will go through a 
+
+reviewing process and accepted papers will be published in the 
+
+Conference proceedingsbook issued by Springer. A copy of the Conference 
+
+Proceedings will await you at the beginning of the Conference.
+
+ 
+
+ 
+
+---------- Attention to the following dates and deadlines
+-----------------------
+
+Submission deadline: 31. January 2009
+
+Authors Notification: 01. April.2009
+
+Early Registration until: 15. April 2009
+
+Final Submission of revised papers: 16. Mai 2009
+
+----------------------------------------------------------------------------
+-----
+
+ 
+
+Information and updates are available on the LM09 Webpage:
+
+ 
+
+www.lm09.de
+
+ 
+
+Program Committee (to be extended)
+
+Christian Bierwirth, Martin-Luther-University Halle-Wittenberg, Germany
+
+Teodor Gabriel Crainic, University of Montreal, Canada
+
+Joachim R. Daduna, University of Applied Business Administration of Berlin,
+Germany
+
+Wolfgang Domschke, University of Technology Darmstadt, Germany
+
+Hans-Otto G?nther, TU Berlin, Germany
+
+Richard F. Hartl, University of Vienna, Austria
+
+Sin C. Ho, University of Aarhus, Denmark
+
+Kap Hwan Kim, Pusan University, South Korea
+
+Herbert Kopfer, University of Bremen, Germany
+
+Herbert Kotzab, Copenhagen Business School, Denmark
+
+Heinrich Kuhn, Catholic University of Eichstaett-Ingolstadt, Germany
+
+Gilbert Laporte, University of Montreal, Canada 
+
+Rainer Lasch, University of Technology Dresden, Germany
+
+Dirk Christian Mattfeld, University of Technology Braunschweig, Germany
+
+Herbert Meyr, University of Technology Darmstadt, Germany
+
+Stefan Minner, University of Vienna, Austria
+
+Pitu Mirchandani, University of Arizona at Tucson, USA
+
+Warren Powell, Princeton University, USA
+
+Thomas S. Spengler, University of Technology Braunschweig, Germany
+
+Maria Grazia Speranza, University of Brescia, Italy
+
+Horst Tempelmeier, University of Cologne, Germany
+
+G?nther Z?pfel, University of Linz, Austria
+
+ 
+
+ 
+
+ 
+
+We are available for further information and questions at 
+
+ 
+
+Institute of Information Systems,
+
+Prof. Dr. Stefan Vo?
+
+University of Hamburg
+
+Von-Melle-Park 5
+
+D-20146 Hamburg
+
+ 
+
+Email: lm09 at econ.uni-hamburg.de
+
+ 
+
+Best Regards,
+
+Organizing Committee
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+---------------------------------------------------------------------
+
+ 
+
+               CALL FOR PAPERS
+
+ 
+
+            Logistik Management 2009
+
+                    2.-4. September
+
+              Universit?t Hamburg
+
+ 
+
+               http://www.lm09.de
+
+ 
+
+---------------------------------------------------------------------
+
+ 
+
+Die Logistik Management ist eine internationale Tagung, die sich an 
+
+Experten aus Wissenschaft und Praxis wendet. Der interdisziplin?re
+
+Austausch sowie die Diskussion aktueller Trends, Strategien und 
+
+Forschungsergebnisse sind wesentlicher Bestandteil dieser Konferenz. 
+
+ 
+
+Schwerpunkte der Tagung sind die Themenbereiche Supply Chain Management, 
+
+Collaborative commerce, Reverse Logistics, IT-Systeme in der Logistik, 
+
+Transport-, Umschlag- und Lagerhaltungspolitiken, dezentrale Logistik, 
+
+E-Business sowie Lehre und Ausbildung in der Logistik. 
+
+ 
+
+Bitte reichen Sie Ihren Artikel bis 31.01.2009 ?ber die Konferenzhomepage 
+
+(www.lm09.de) ein. Eingereichte Artikel werden referiert und angenommene
+
+Beitr?ge erscheinen in einem Tagungsband im Springer Verlag. Dieser  
+
+Tagungsband wird zur Konferenz verf?gbar sein.
+
+ 
+
+Bitte beachten Sie folgende Termine:
+
+- Einsendeschluss f?r Artikel: 31.01.2009
+
+- Best?tigung der Annahme: 01.04.2009
+
+- Fr?he Anmeldung bis: 15.04.2009
+
+- Einsendung ?berarbeiteter Artikel bis: 16.05.2009
+
+ 
+
+Aktuelle Informationen werden auf der Internetpr?senz der LM09 bekannt 
+
+gegeben, siehe: www.lm09.de
+
+ 
+
+ 
+
+Programm Komitee (im Aufbau)
+
+Christian Bierwirth, Martin-Luther-Universit?t Halle-Wittenberg, Deutschland
+
+Teodor Gabriel Crainic, Universit?t Montreal, Kanada
+
+Joachim R. Daduna, Fachhochschule f?r Wirtschaft Berlin, Deutschland
+
+Wolfgang Domschke, Technische Universit?t Darmstadt, Deutschland
+
+Hans-Otto G?nther, TU Berlin, Deutschland
+
+Richard F. Hartl, Universit?t Wien, ?sterreich
+
+Sin C. Ho, Universit?t Aarhus, D?nemark
+
+Kap Hwan Kim, Pusan University, S?d Korea
+
+Herbert Kopfer, Universi?t Bremen, Deutschland
+
+Herbert Kotzab, Copenhagen Business School, D?nemark
+
+Heinrich Kuhn, Katholische Universit?t Eichst?tt-Ingolstadt, Deutschland
+
+Gilbert Laporte, University of Montreal, Kanada 
+
+Rainer Lasch, TU Dresden, Deutschland
+
+Dirk Christian Mattfeld, TU Braunschweig, Deutschland
+
+Herbert Meyr, TU Darmstadt, Deutschland
+
+Stefan Minner, Universit?t Wien, ?sterreich
+
+Pitu Mirchandani, University of Arizona at Tucson, USA
+
+Warren Powell, Princeton University, USA
+
+Thomas S. Spengler, TU Braunschweig, Deutschland
+
+Maria Grazia Speranza, Universit?t Brescia, Italien
+
+Horst Tempelmeier, Universit?t zu K?ln, Deutschland
+
+G?nther Z?pfel, Universit?t Linz, ?sterreich
+
+ 
+
+ 
+
+Sie erreichen uns unter:
+
+lm09 at econ.uni-hamburg.de
+
+ 
+
+Universit?t Hamburg
+
+Institut f?r Wirtschaftsinformatik
+
+Prof. Dr. Stefan Vo?
+
+Von-Melle-Park 5
+
+D-20146 Hamburg
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/ometah-main/attachments/20081119/e0988f1f/attachment.html>
+

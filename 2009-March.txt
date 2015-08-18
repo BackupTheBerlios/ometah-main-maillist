@@ -1,0 +1,400 @@
+From bachale at econ.uni-hamburg.de  Fri Mar 13 12:47:04 2009
+From: bachale at econ.uni-hamburg.de (Bachale)
+Date: Fri, 13 Mar 2009 12:47:04 +0100
+Subject: [Ometah-main] WG: 2nd Call for Papers MIC 09
+Message-ID: <200903131146.n2DBkpfU132022@rzaixsrv2.rrz.uni-hamburg.de>
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dear Sir or Madam,
+
+ 
+
+We are happy to inform you about the updated CFP for the 
+
+ 
+
+Metaheuristics International Conference 2009. Please find it 
+
+ 
+
+attached to this mail and below.
+
+ 
+
+We would be glad if you could distribute our calls for papers  
+
+ 
+
+via your mailing list.
+
+ 
+
+In case of cross-mailing you with the content of this mail we 
+
+ 
+
+apologize.
+
+ 
+
+Thank you in advance,
+
+ 
+
+the MIC-conference team
+
+ 
+
+ 
+
+***********   Apologies for multiple copies received   
+
+ 
+
+***************
+
+ 
+
+ 
+
+ 
+
+                        CALL FOR PAPERS - EXTENDED DEADLINE
+
+ 
+
+***************************************************************
+
+ 
+
+*******
+
+*
+
+*                                  MIC 2009
+
+*          VIII Metaheuristic International Conference
+
+* 
+
+*                      Hamburg, Germany
+
+*                     July 13 - 16, 2009
+
+*
+
+*                    http://www.mic09.de
+
+*
+
+***************************************************************
+
+ 
+
+*******
+
+ 
+
+ 
+
+Th 8th edition of the Metaheuristic International Conference 
+
+(MIC 2009) will be held in Hamburg, Germany, from the 13th to 
+
+ 
+
+the 16th
+
+of July, 2009. 
+
+ 
+
+As in the past, the conference will provide an opportunity
+
+for researchers and practitioners in the field of 
+
+ 
+
+metaheuristics
+
+to present their latest results and findings in a fruitful 
+
+and open-minded environment. 
+
+ 
+
+Contributions on any topic in metaheuristics are welcomed.
+
+ 
+
+ 
+
+IMPORTANT DATES
+
+ 
+
+***************************************************************
+
+ 
+
+*******
+
+* Deadline of Submission of Extended Abstract     : March 31, 
+
+ 
+
+2009 [EXTENDED]
+
+* Deadline of Acceptance                            : April 30, 
+
+ 
+
+2009
+
+* Deadline Submission Final Version                 : May 15, 
+
+ 
+
+2009
+
+* Deadline Early Registration                       : May 31, 
+
+ 
+
+2009
+
+* MIC 2009 in Hamburg                               : July 
+
+ 
+
+13-16, 2009
+
+***************************************************************
+
+ 
+
+*******
+
+ 
+
+ 
+
+INVITED SPEAKERS
+
+ 
+
+    * Keynote Speakers
+
+    ------------------
+
+         1. Roberto Battiti (University of Trento, Italy): 
+
+                Reactive Search Optimization: Learning While 
+
+ 
+
+Solving 
+
+                Complex Problems
+
+ 
+
+    * Special Sessions
+
+    ------------------
+
+         1. [Cfp] Metaheuristic and Hybrid Solution Methods for 
+
+ 
+
+Lot 
+
+                      Sizing and Scheduling Problems 
+
+                          Christian Almeder (University of Vienna, 
+
+                          christian.almeder at univie.ac.at) and 
+
+                          Bernardo Almada-Lobo (University of Porto, 
+
+                          almada.lobo at fe.up.pt)
+
+         2. [Cfp] Math-Heuristics for Transportation Logistics 
+
+                      Verena Schmid (University of Vienna, 
+
+                          verena.schmid at univie.ac.at) and Fabien 
+
+ 
+
+Tricoire
+
+                           (University of Vienna, 
+
+ 
+
+fabien.tricoire at univie.ac.at)
+
+         3. [Cfp] Math-Heuristics for Combinatorial 
+
+ 
+
+Optimization 
+
+                      Vittorio Maniezzo (University of Bologna, 
+
+                          vittorio.maniezzo at unibo.it) and Marco 
+
+ 
+
+Boschetti 
+
+                          (University of Bologna, 
+
+ 
+
+marco.boschetti at unibo.it)
+
+         4. [Cfp] Scatter Search and Path Relinking: Manuel 
+
+ 
+
+Laguna 
+
+                      (University of Colorado) and Rafael Mart? 
+
+                          (University of Valencia, rafael.marti at uv.es) 
+
+ 
+
+ 
+
+ 
+
+REGISTRATION AND SUBMISSION
+
+ 
+
+The registration and submission process are already open to 
+
+ 
+
+interested
+
+people. We are accepting extended abstracts with a maximum 
+
+ 
+
+length of
+
+10 pages, written in English and typeset using the LaTeX 
+
+ 
+
+template
+
+provided at http://www.mic09.de/, under the "Submission" 
+
+ 
+
+section (See
+
+also  "Steps for Abstract Submission" in the same page.) 
+
+ 
+
+Papers will be peer-reviewed and acceptance of the 
+
+ 
+
+contributions 
+
+will be based on originality of the work, suitability of the 
+
+ 
+
+topic 
+
+to the conference, and overall quality of the submission. 
+
+ 
+
+ 
+
+CONFERENCE FEES
+
+ 
+
+Conference fees will be posted on the web site by March 22, 
+
+ 
+
+2009.
+
+ 
+
+ 
+
+POST-CONFERENCE VOLUME
+
+ 
+
+In line with the preceeding editions of MIC, we plan to open 
+
+invitations to submit high quality work for the post-conference 
+
+volume on Metaheuristics. The volume will be published by 
+
+ 
+
+Springer.
+
+Further details about the post-conference submission will be 
+
+ 
+
+provided soon.
+
+ 
+
+CONTACT INFORMATION
+
+ 
+
+For information about the conference, please contact:
+
+ 
+
+ 
+
+Institute of Information Systems
+
+University of Hamburg
+
+Von-Melle-Park 5
+
+20146 Hamburg
+
+Phone: +49 (0)40 42838 3062
+
+Fax: +49 (0)40 42838 5535
+
+Email: mic09 at econ.uni-hamburg.de
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/ometah-main/attachments/20090313/4775f2bc/attachment.html>
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: cfp2MIC09.txt
+URL: <https://lists.berlios.de/pipermail/ometah-main/attachments/20090313/4775f2bc/attachment.txt>
+

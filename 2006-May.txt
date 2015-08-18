@@ -1,0 +1,31 @@
+From nojhan at gmail.com  Mon May 15 16:08:04 2006
+From: nojhan at gmail.com (nojhan)
+Date: Mon, 15 May 2006 16:08:04 +0200
+Subject: [Ometah-main] segmentation fault when running ./ometah
+In-Reply-To: <443CD2D6.10808@free.fr>
+References: <443CD2D6.10808@free.fr>
+Message-ID: <1147702084.28930.41.camel@localhost.localdomain>
+
+Hi,
+
+I have solved the problem of segmentation fault. I have also solved the
+problem of python module import. 
+
+Now, you can use python quite easily to implement your problems. Please,
+use the CVS version to test it.
+
+For instance, use this command line will now works :
+	./ometah -C Python -M problem_for_ometah
+
+-- 
+Johann Dr?o
+
+Universit? de Paris 12 (LISSI, EA-3956)
+61 av. du G?n?ral de Gaulle, 94010 CR?TEIL Cedex
+
+T?l. : 01.45.17.14.95  B?timent P2, bureau 231
+Web : http://nojhan.free.fr
+IM : nojhan at jabber.org
+
+
+
